@@ -146,6 +146,18 @@ Clique Bait is an online seafood store. In this case study - you are required to
 
 ***
 
+# 👚 Case Study #7: Balanced Tree Co.
+<p align="center">
+<img width="400px"  src="https://8weeksqlchallenge.com/images/case-study-designs/7.png" />
+</p>
+
+<p align="center">
+View the case study <a href="https://8weeksqlchallenge.com/case-study-7/">here</a> 
+</p>
+
+
+
+
 ## Case Study #8: Fresh Segments
 
 <img src="https://user-images.githubusercontent.com/81607668/138843936-d1741a39-9b87-4d5d-b09c-643600e28c92.png" alt="Image" width="500" height="520">
